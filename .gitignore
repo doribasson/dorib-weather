@@ -1,0 +1,9 @@
+# api keys
+.env
+
+# node_modules
+/node_modules
+
+#api text
+api.text
+
